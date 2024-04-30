@@ -24,9 +24,9 @@ The models were evaluated using various metrics, including precision, accuracy, 
 ### Results
 After extensive modeling and evaluation, the following results were achieved:
 
-Gradient Boosting: Precision of 0.1667, Specificity of 0.9996
-Logistic Regression: AUC-ROC of  0.7696, ROC AUC of 0.32
-Neural Network: AUC-ROC of 0.5252
+* Gradient Boosting: Precision of 0.1667, Specificity of 0.9996
+* Logistic Regression: AUC-ROC of  0.7696, ROC AUC of 0.32
+* Neural Network: AUC-ROC of 0.5252
 
 ## Conclusion
 The predictive maintenance classification task demonstrated the effectiveness of Gradient Boosting in accurately predicting equipment failure. Further improvements could be made by exploring more advanced neural network architectures or refining feature engineering techniques.
