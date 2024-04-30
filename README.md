@@ -1,4 +1,4 @@
-# PredictiveMaitenanceProject
+# Predictive Maitenance Project
 
 ## Overview
 This repository contains code and data for a predictive maintenance classification task. The goal is to predict whether a piece of equipment will fail in the future based on historical data. The dataset has been cleaned, visualized, and used for feature engineering and modeling with various machine learning algorithms.
